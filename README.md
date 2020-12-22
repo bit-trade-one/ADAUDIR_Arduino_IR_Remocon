@@ -9,7 +9,7 @@ Arduino(アルディーノ)専用 学習リモコン基板は、アルディー�
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adaudir/)!
 
-## [サンプル](https://github.com/bit-trade-one/ADAUDIR_Arduino_IR_Remocon/tree/master/Sample)
+## [サンプル・I2C仕様](https://github.com/bit-trade-one/ADAUDIR_Arduino_IR_Remocon/tree/master/Sample)
 
 ## [回路図](https://github.com/bit-trade-one/ADAUDIR_Arduino_IR_Remocon/blob/master/Schematics/arduino_ir_v11_schematics.pdf)
 
