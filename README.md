@@ -13,6 +13,8 @@ Arduino(アルディーノ)専用 学習リモコン基板は、アルディー�
 
 ## [回路図](https://github.com/bit-trade-one/ADAUDIR_Arduino_IR_Remocon/blob/master/Schematics/arduino_ir_v11_schematics.pdf)
 
+## [Q&A](https://github.com/bit-trade-one/ADAUDIR_Arduino_IR_Remocon/blob/master/FAQ.md)
+
 ## 製品仕様
 【対応機種】Arduino Uno Rev3  
 【記録可能スイッチ】 10個【対応赤外線周波数】38kHz  
